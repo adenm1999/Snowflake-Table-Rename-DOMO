@@ -14,7 +14,7 @@ Set up the Snowflake cloud connector in Domo to pull data from Snowflake directl
 
 # 1) Build the DOMO ETL 
 
-Use example JSON ETL Example - Important input dataset are Snowflake datasets and the Governance dataset containing both dataset ID and Dataset Name.
+Important input dataset: are Snowflake datasets and the Governance dataset containing both dataset ID and Dataset Name.
 
 Our recommendation is to create a ETL transformation on top of the 'Domo Governance Datasets Connector' and the Snowflake cloud Connector. Filter your dataset view so that the resulting dataset contains the list of distinct Dataset ID's.
 
