@@ -22,11 +22,11 @@ Or download it to your local machine.
 
 # 3) Important field inputs that needs to be used in the Script.
 
-domain         = "DOMO DOMIN"
-access_token   = "DOMO Access token"
-client_id      = 'DOMO Client ID Found in using this url: https://developer.domo.com/ '
-client_secret  = 'DOMO Client ID Found in using this url: https://developer.domo.com/ '
-Dataset_url_ID = 'Dataset url ID ataset GUI (located in the URL when viewing the dataset view)'
+1) domain         = "DOMO DOMIN"
+2) access_token   = "DOMO Access token"
+3) client_id      = 'DOMO Client ID Found in using this url: https://developer.domo.com/ '
+4) client_secret  = 'DOMO Client ID Found in using this url: https://developer.domo.com/ '
+5) Dataset_url_ID = 'Dataset url ID ataset GUI (located in the URL when viewing the dataset view)'
 
 
 
