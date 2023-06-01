@@ -2,7 +2,13 @@
 
 This Python Script renames table names that is being pushed using the DOMO Multicloud Connection using Snowflake. Please use this link to understand Domo - Snowflake Connection ( https://domo-support.domo.com/s/article/4412849158167?language=en_US )
 
-The script requires the indvidual to build a Domo dataset in DOMO using the governance dataset to get the dataset ID numbers and DOMO table name lists. Furthermore, to set up using teh snowflake cloud connector to pull data from snowflake to DOMO Directly - Key columun are Snowflake dataset Names and the Dataset ID which we will using to the transformation in Domo.
+This Python script automates the renaming of table names in the DOMO Multicloud Connection using Snowflake. To understand the Domo-Snowflake connection, please refer to this link: Domo - Snowflake Connection.
+
+To use this script, you need to follow these steps:
+
+Build a Domo dataset in DOMO using the governance dataset. This will provide you with the dataset ID numbers and DOMO table name lists.
+
+Set up the Snowflake cloud connector in Domo to pull data from Snowflake directly. Key columns in this connector are the Snowflake dataset names and the dataset ID, which we will use for the transformation in Domo.
 
 # Setup
 
