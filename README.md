@@ -36,7 +36,10 @@ Or download it to your local machine.
 6) friendlyName   = 'DOMO Multi-Cloud Connection Name'
 
 # 4) NOTES
-Section 3: Using the ETL to get the Domo ID'S ---- Should only be ran if the connection is being set up using the jupyter notebook in DOMO. 
-If code is ran outside DOMO using the python SDK use the run: Section 3 - Calling the Domo Dataset Outside of Domo.
+Section 3: 
+
+1) Using the ETL to get the Domo ID'S ---- Should only be ran if the connection is being set up using the jupyter notebook in DOMO. 
+
+2) If code is ran outside DOMO using the python SDK use the code block: Section 3 - Calling the Domo Dataset Outside of Domo.
 
 
