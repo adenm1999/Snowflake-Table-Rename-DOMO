@@ -20,4 +20,14 @@ Once your dataset view is created, containing the list of DATASET_ID and DATASET
 
 Or download it to your local machine.
 
+# 3) Important field inputs that needs to be used in the Script.
+
+domain         = "DOMO DOMIN"
+access_token   = "DOMO Access token"
+client_id      = 'DOMO Client ID Found in using this url: https://developer.domo.com/ '
+client_secret  = 'DOMO Client ID Found in using this url: https://developer.domo.com/ '
+Dataset_url_ID = 'Dataset url ID ataset GUI (located in the URL when viewing the dataset view)'
+
+
+
 
